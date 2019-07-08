@@ -5,6 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/BoardCreation.iml" filepath="$PROJECT_DIR$/.idea/modules/BoardCreation.iml" group="BoardCreation" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/BoardCreation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/BoardCreation_main.iml" group="BoardCreation" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/BoardCreation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/BoardCreation_test.iml" group="BoardCreation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeamCreation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TeamCreation_main.iml" group="TeamCreation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeamCreation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TeamCreation_test.iml" group="TeamCreation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TelRan-BoardCreation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TelRan-BoardCreation_main.iml" group="BoardCreation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TelRan-BoardCreation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TelRan-BoardCreation_test.iml" group="BoardCreation" />
     </modules>
   </component>
 </project>
