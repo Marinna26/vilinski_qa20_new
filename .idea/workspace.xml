@@ -59,6 +59,7 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BoardCreation/build.gradle">
+<<<<<<< HEAD
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
@@ -83,6 +84,11 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+=======
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+>>>>>>> parent of 2774813... TeamCreation HW
             </state>
           </provider>
         </entry>
@@ -90,6 +96,7 @@
 <<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java">
+<<<<<<< HEAD
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
@@ -100,6 +107,23 @@
             <state>
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
 >>>>>>> parent of 2774813... TeamCreation HW
+=======
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="11" column="4" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> parent of 2774813... TeamCreation HW
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/TestBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -121,6 +145,7 @@
       <list>
         <option value="$PROJECT_DIR$/BoardCreation/build.gradle" />
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/TeamCreation/build.gradle" />
         <option value="$PROJECT_DIR$/TeamCreation/src/test/java/TestBase.java" />
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/TestBase.java" />
@@ -128,6 +153,10 @@
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/java/TestBase.java" />
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java" />
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/java/BoardCreationTests.java" />
+=======
+        <option value="$PROJECT_DIR$/BoardCreation/src/test/java/TestBase.java" />
+        <option value="$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java" />
+>>>>>>> parent of 2774813... TeamCreation HW
 =======
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/TestBase.java" />
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java" />
@@ -146,8 +175,11 @@
     </navigator>
     <panes>
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
+=======
+>>>>>>> parent of 2774813... TeamCreation HW
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,6 +220,9 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+>>>>>>> parent of 2774813... TeamCreation HW
+=======
 >>>>>>> parent of 2774813... TeamCreation HW
       <pane id="PackagesPane" />
       <pane id="Scope" />
@@ -227,13 +262,17 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/BoardCreation/src/test/java" />
+=======
+>>>>>>> parent of 2774813... TeamCreation HW
 =======
 >>>>>>> parent of 2774813... TeamCreation HW
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
+<<<<<<< HEAD
 <<<<<<< HEAD
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -243,6 +282,8 @@
       <recent name="" />
     </key>
   </component>
+=======
+>>>>>>> parent of 2774813... TeamCreation HW
 =======
 >>>>>>> parent of 2774813... TeamCreation HW
   <component name="RunDashboard">
@@ -259,7 +300,10 @@
   </component>
   <component name="RunManager" selected="TestNG.BoardCreation.createBoardTest">
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 2774813... TeamCreation HW
     <configuration name="BoardCreation" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -391,6 +435,7 @@
       </method>
     </configuration>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <configuration name="TeamCreation.testTeamCreation (1)" type="TestNG" nameIsGenerated="true">
       <module name="TelRan-BoardCreation_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -435,6 +480,8 @@
     </configuration>
 =======
 >>>>>>> parent of 2774813... TeamCreation HW
+=======
+>>>>>>> parent of 2774813... TeamCreation HW
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.BoardCreation.createBoardTest" />
@@ -471,6 +518,7 @@
       <configuration name="BoardCreationTests.testBoardCreationFromHeader" configurationId="TestNG" />
     </history-entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <history-entry file="BoardCreationTests_testBoardCreationFromHeader - 2019.07.09 at 20h 29m 34s.xml">
       <configuration name="BoardCreationTests.testBoardCreationFromHeader" configurationId="TestNG" />
     </history-entry>
@@ -489,54 +537,27 @@
     <history-entry file="BoardCreation_createBoardTest - 2019.07.09 at 20h 52m 41s.xml">
       <configuration name="BoardCreation.createBoardTest" configurationId="TestNG" />
     </history-entry>
-  </component>
-  <component name="ToolWindowManager">
 
-=======
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25321338" />
->>>>>>> parent of 2774813... TeamCreation HW
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-<<<<<<< HEAD
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49620062" weight="0.3289689" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924013" weight="0.39934534" />
-=======
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
->>>>>>> parent of 2774813... TeamCreation HW
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5037994" side_tool="true" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-<<<<<<< HEAD
 
-=======
+
+
+
       <window_info anchor="bottom" id="Build" order="10" />
->>>>>>> parent of 2774813... TeamCreation HW
+
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven" order="4" />
-<<<<<<< HEAD
 
-=======
       <window_info anchor="right" id="Gradle" order="5" visible="true" weight="0.32969153" />
->>>>>>> parent of 2774813... TeamCreation HW
+
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
@@ -546,13 +567,8 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-<<<<<<< HEAD
-          <url>file://$PROJECT_DIR$/BoardCreation/src/test/java/java/BoardCreationTests.java</url>
-          <line>25</line>
-=======
-          <url>file://$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java</url>
-          <line>11</line>
->>>>>>> parent of 2774813... TeamCreation HW
+
+
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
@@ -562,7 +578,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/BoardCreation/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
+
         <state relative-caret-position="238">
           <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="15" selection-end-column="45" />
         </state>
@@ -596,7 +612,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-=======
+
+        <state relative-caret-position="255">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+
         <state relative-caret-position="255">
           <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
         </state>
@@ -606,19 +625,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
->>>>>>> parent of 2774813... TeamCreation HW
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
+
+        <state>
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+
         <state relative-caret-position="128">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-=======
+
         <state relative-caret-position="113">
           <caret line="11" column="4" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="43" />
->>>>>>> parent of 2774813... TeamCreation HW
+
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -6,12 +6,15 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/BoardCreation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/BoardCreation_main.iml" group="BoardCreation" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/BoardCreation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/BoardCreation_test.iml" group="BoardCreation" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeamCreation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TeamCreation_main.iml" group="TeamCreation" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeamCreation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TeamCreation_test.iml" group="TeamCreation" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TelRan-BoardCreation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TelRan-BoardCreation_main.iml" group="BoardCreation" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TelRan-BoardCreation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TelRan-BoardCreation_test.iml" group="BoardCreation" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/vilinski_qa20_new-BoardCreation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/vilinski_qa20_new-BoardCreation_main.iml" group="BoardCreation" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/vilinski_qa20_new-BoardCreation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/vilinski_qa20_new-BoardCreation_test.iml" group="BoardCreation" />
+=======
+>>>>>>> parent of 2774813... TeamCreation HW
 =======
 >>>>>>> parent of 2774813... TeamCreation HW
     </modules>

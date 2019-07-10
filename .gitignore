@@ -13,6 +13,7 @@ gradle-app.setting
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
 <<<<<<< HEAD
+<<<<<<< HEAD
 .idea/workspace.xml
 .idea/workspace.xml
 =======
@@ -24,3 +25,12 @@ gradle-app.setting
 .idea/workspace.xml
 .idea/modules.xml
 .idea/compiler.xml
+=======
+>>>>>>> parent of 2774813... TeamCreation HW
+.idea/compiler.xml
+.idea/modules.xml
+.idea/modules/vilinski_qa20_new-BoardCreation_main.iml
+.idea/modules/vilinski_qa20_new-BoardCreation_test.iml
+.idea/workspace.xml
+BoardCreation/build/classes/java/test/TeamCreation.class
+BoardCreation/build/classes/java/test/TestBase.class
