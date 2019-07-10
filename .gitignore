@@ -12,31 +12,5 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
-
-.idea/workspace.xml
-.idea/workspace.xml
-
-
-.idea/compiler.xml
-.idea/modules.xml
-.idea/modules.xml
-.idea/compiler.xml
-.idea/workspace.xml
-.idea/modules.xml
-.idea/compiler.xml
-
-.idea/compiler.xml
-.idea/modules.xml
-.idea/modules/vilinski_qa20_new-BoardCreation_main.iml
-.idea/modules/vilinski_qa20_new-BoardCreation_test.iml
-.idea/workspace.xml
-BoardCreation/build/classes/java/test/TeamCreation.class
-BoardCreation/build/classes/java/test/TestBase.class
-
-.idea/compiler.xml
-.idea/modules.xml
-.idea/modules/vilinski_qa20_new-BoardCreation_main.iml
-.idea/modules/vilinski_qa20_new-BoardCreation_test.iml
-.idea/workspace.xml
-BoardCreation/build/classes/java/test/TeamCreation.class
+\
 BoardCreation/build/classes/java/test/TestBase.class
