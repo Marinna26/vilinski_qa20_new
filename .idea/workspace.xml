@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="bc1856e1-4520-4a89-81e8-97541a48211e" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="bc1856e1-4520-4a89-81e8-97541a48211e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> parent of 2774813... TeamCreation HW
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/BoardCreation/.gradle/" />
     <ignored path="$PROJECT_DIR$/BoardCreation/build/" />
-    <ignored path="$PROJECT_DIR$/TeamCreation/.gradle/" />
-    <ignored path="$PROJECT_DIR$/TeamCreation/build/" />
-    <ignored path="$PROJECT_DIR$/TeamCreation/out/" />
-    <ignored path="$PROJECT_DIR$/BoardCreation/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,9 +24,6 @@
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$/BoardCreation">
-      <ProjectState />
-    </projectState>
-    <projectState path="$PROJECT_DIR$/TeamCreation">
       <ProjectState />
     </projectState>
   </component>
@@ -47,21 +48,38 @@
     </system>
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/TeamCreation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BoardCreation/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+>>>>>>> parent of 2774813... TeamCreation HW
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="128">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="11" column="4" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="43" />
+>>>>>>> parent of 2774813... TeamCreation HW
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,11 +87,19 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/TestBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+>>>>>>> parent of 2774813... TeamCreation HW
             </state>
           </provider>
         </entry>
@@ -94,6 +120,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/BoardCreation/build.gradle" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/TeamCreation/build.gradle" />
         <option value="$PROJECT_DIR$/TeamCreation/src/test/java/TestBase.java" />
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/TestBase.java" />
@@ -101,6 +128,10 @@
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/java/TestBase.java" />
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java" />
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/java/BoardCreationTests.java" />
+=======
+        <option value="$PROJECT_DIR$/BoardCreation/src/test/java/TestBase.java" />
+        <option value="$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java" />
+>>>>>>> parent of 2774813... TeamCreation HW
       </list>
     </option>
   </component>
@@ -114,7 +145,50 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
 
+=======
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BoardCreation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BoardCreation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BoardCreation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BoardCreation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BoardCreation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BoardCreation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BoardCreation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BoardCreation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="BoardCreation" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Marina\Documents\GitHub\vilinski_qa20_new" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+>>>>>>> parent of 2774813... TeamCreation HW
       <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
@@ -151,13 +225,16 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="extract.method.default.visibility" value="public" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/BoardCreation/src/test/java" />
+=======
+>>>>>>> parent of 2774813... TeamCreation HW
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
+<<<<<<< HEAD
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Gran\Documents\GitHub\vilinski_qa20_new\BoardCreation\src\test\java" />
@@ -166,6 +243,8 @@
       <recent name="" />
     </key>
   </component>
+=======
+>>>>>>> parent of 2774813... TeamCreation HW
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -179,6 +258,49 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG.BoardCreation.createBoardTest">
+<<<<<<< HEAD
+=======
+    <configuration name="BoardCreation" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/BoardCreation" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;BoardCreation&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="BoardCreation.createBoardTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/BoardCreation" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;BoardCreation.createBoardTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+>>>>>>> parent of 2774813... TeamCreation HW
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -268,6 +390,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="TeamCreation.testTeamCreation (1)" type="TestNG" nameIsGenerated="true">
       <module name="TelRan-BoardCreation_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -310,6 +433,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+=======
+>>>>>>> parent of 2774813... TeamCreation HW
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.BoardCreation.createBoardTest" />
@@ -345,6 +470,7 @@
     <history-entry file="BoardCreationTests_testBoardCreationFromHeader - 2019.07.09 at 20h 17m 29s.xml">
       <configuration name="BoardCreationTests.testBoardCreationFromHeader" configurationId="TestNG" />
     </history-entry>
+<<<<<<< HEAD
     <history-entry file="BoardCreationTests_testBoardCreationFromHeader - 2019.07.09 at 20h 29m 34s.xml">
       <configuration name="BoardCreationTests.testBoardCreationFromHeader" configurationId="TestNG" />
     </history-entry>
@@ -366,29 +492,51 @@
   </component>
   <component name="ToolWindowManager">
 
+=======
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25321338" />
+>>>>>>> parent of 2774813... TeamCreation HW
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49620062" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924013" weight="0.39934534" />
+=======
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+>>>>>>> parent of 2774813... TeamCreation HW
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5037994" side_tool="true" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+<<<<<<< HEAD
 
+=======
+      <window_info anchor="bottom" id="Build" order="10" />
+>>>>>>> parent of 2774813... TeamCreation HW
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven" order="4" />
+<<<<<<< HEAD
 
+=======
+      <window_info anchor="right" id="Gradle" order="5" visible="true" weight="0.32969153" />
+>>>>>>> parent of 2774813... TeamCreation HW
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
@@ -398,8 +546,13 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
+<<<<<<< HEAD
           <url>file://$PROJECT_DIR$/BoardCreation/src/test/java/java/BoardCreationTests.java</url>
           <line>25</line>
+=======
+          <url>file://$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java</url>
+          <line>11</line>
+>>>>>>> parent of 2774813... TeamCreation HW
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
@@ -409,6 +562,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/BoardCreation/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="238">
           <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="15" selection-end-column="45" />
         </state>
@@ -442,13 +596,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+=======
+        <state relative-caret-position="255">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+>>>>>>> parent of 2774813... TeamCreation HW
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="128">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+=======
+        <state relative-caret-position="113">
+          <caret line="11" column="4" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="43" />
+>>>>>>> parent of 2774813... TeamCreation HW
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
