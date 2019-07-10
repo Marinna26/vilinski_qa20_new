@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeamCreation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TeamCreation_test.iml" group="TeamCreation" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TelRan-BoardCreation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TelRan-BoardCreation_main.iml" group="BoardCreation" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TelRan-BoardCreation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TelRan-BoardCreation_test.iml" group="BoardCreation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vilinski_qa20_new-BoardCreation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/vilinski_qa20_new-BoardCreation_main.iml" group="BoardCreation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vilinski_qa20_new-BoardCreation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/vilinski_qa20_new-BoardCreation_test.iml" group="BoardCreation" />
     </modules>
   </component>
 </project>
