@@ -14,3 +14,5 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 \
 BoardCreation/build/classes/java/test/TestBase.class
+.idea/workspace.xml
+.idea/workspace.xml

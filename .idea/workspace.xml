@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a607aac0-d7f1-44cc-b61f-6df2a4056f12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vilinski_qa20_new.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/TeamCreation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/BoardCreation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/BoardCreation.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/BoardCreation_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/BoardCreation_main.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/BoardCreation_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/BoardCreation_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/vilinski_qa20_new-BoardCreation_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/vilinski_qa20_new-BoardCreation_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/vilinski_qa20_new-BoardCreation_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/vilinski_qa20_new-BoardCreation_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vilinski_qa20_new.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vilinski_qa20_new.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/build/classes/java/test/BoardCreation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/build/classes/java/test/TeamCreation.class" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/build/classes/java/test/TeamCreation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/build/classes/java/test/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/build/classes/java/test/TestBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/BoardCreation.class" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/out/test/classes/BoardCreation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/src/test/java/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/TestBase.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/BoardCreation/.gradle/" />
@@ -53,8 +43,8 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/TeamCreation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
@@ -66,8 +56,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="20" column="64" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
+            <state relative-caret-position="34">
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BoardCreation/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="15" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -104,8 +103,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,7 +140,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vilinski_qa20_newclass" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -162,7 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TeamCreation.testTeamCreation">
+  <component name="RunManager" selected="TestNG.BoardCreation.createBoardTest">
     <configuration name="TeamCreation.testTeamCreation" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -183,6 +186,18 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="BoardCreation.createBoardTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BoardCreation_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BoardCreation" />
+      <option name="METHOD_NAME" value="createBoardTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TeamCreation.testTeamCreation" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BoardCreation_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -198,9 +213,11 @@
     <list>
       <item itemvalue="Gradle.TeamCreation.testTeamCreation" />
       <item itemvalue="TestNG.TeamCreation.testTeamCreation" />
+      <item itemvalue="TestNG.BoardCreation.createBoardTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.BoardCreation.createBoardTest" />
         <item itemvalue="TestNG.TeamCreation.testTeamCreation" />
       </list>
     </recent_temporary>
@@ -210,7 +227,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c522ddb1-f989-4783-b586-1b5930a99b1a" name="Default Changelist" comment="" />
+      <changelist id="a607aac0-d7f1-44cc-b61f-6df2a4056f12" name="Default Changelist" comment="" />
       <created>1562780987403</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -237,46 +254,52 @@
     <history-entry file="TeamCreation_testTeamCreation - 2019.07.10 at 21h 23m 57s.xml">
       <configuration name="TeamCreation.testTeamCreation" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="TeamCreation_testTeamCreation - 2019.07.11 at 19h 23m 29s.xml">
+      <configuration name="TeamCreation.testTeamCreation" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="BoardCreation_createBoardTest - 2019.07.11 at 19h 24m 16s.xml">
+      <configuration name="BoardCreation.createBoardTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21529563" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21786633" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50064266" side_tool="true" weight="0.32974428" />
-      <window_info anchor="bottom" id="Build" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993573" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993573" visible="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Gradle" visible="true" weight="0.24357326" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50064266" side_tool="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Build" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" visible="true" weight="0.24357326" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java">
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/TeamCreation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="20" column="64" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -287,10 +310,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/TeamCreation.java">
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="34">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BoardCreation/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="15" selection-end-column="45" />
         </state>
       </provider>
     </entry>
