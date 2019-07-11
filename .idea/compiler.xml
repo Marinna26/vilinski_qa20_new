@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="BoardCreation_main" target="1.8" />
       <module name="BoardCreation_test" target="1.8" />
+      <module name="TelRan-BoardCreation_main" target="1.8" />
+      <module name="TelRan-BoardCreation_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
