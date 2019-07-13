@@ -37,6 +37,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/TeamCreation.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -49,6 +50,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             <state relative-caret-position="374">
               <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
@@ -90,6 +93,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
@@ -293,6 +297,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18161094" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22043702" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
@@ -324,6 +329,23 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BoardCreation/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="15" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vilinskiQa20_class/TeamCreation/src/test/java/TestBase.java" />
+    <entry file="file://$PROJECT_DIR$/../vilinskiQa20_class/TeamCreation/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/java/AddToFavoritsTest.java" />
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/java/TrelloLoginTest.java" />
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/java/TestBase.java" />
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/java/BoardCreationTests.java" />
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/TeamCreation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
     <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -343,6 +365,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         <state relative-caret-position="374">
           <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
