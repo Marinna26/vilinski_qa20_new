@@ -4,7 +4,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
-import java.util.NoSuchElementException;
 import java.util.concurrent.TimeUnit;
 
 public class TestBase {
@@ -56,15 +55,6 @@ public class TestBase {
 
     public void click(By locator) {
         wd.findElement(locator).click();
-    }
-
-    public boolean isElementPresent(By by){
-        try {
-            wd.findElement(by);
-            return true;
-        }catch (NoSuchElementException e) {
-            return false;
-        }
     }
 
     //Board____________________________________
