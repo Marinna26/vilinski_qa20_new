@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a607aac0-d7f1-44cc-b61f-6df2a4056f12" name="Default Changelist" comment="" />
+    <list default="true" id="a607aac0-d7f1-44cc-b61f-6df2a4056f12" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/src/test/java/BoardDeletionTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/BoardDeletionTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/src/test/java/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/TestBase.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/BoardCreation/.gradle/" />
     <ignored path="$PROJECT_DIR$/BoardCreation/build/" />
@@ -37,11 +41,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/BoardDeletionTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+            <state relative-caret-position="323">
+              <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/TestBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1441#1442#0" expanded="true" />
+                <element signature="e#1488#1489#0" expanded="true" />
+                <element signature="e#1780#1781#0" expanded="true" />
+                <element signature="e#1834#1835#0" expanded="true" />
+                <element signature="e#1893#1894#0" expanded="true" />
+                <element signature="e#1957#1958#0" expanded="true" />
+                <element signature="e#4175#4176#0" expanded="true" />
+                <element signature="e#4237#4238#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/TeamCreation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="29" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="9" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -49,8 +103,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="361" column="69" selection-start-line="361" selection-start-column="69" selection-end-line="361" selection-end-column="69" />
+            <state relative-caret-position="1153">
+              <caret line="423" column="66" selection-start-line="423" selection-start-column="66" selection-end-line="423" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -61,6 +115,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Gradle Kotlin DSL Settings" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -71,6 +126,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/BoardCreation/src/test/java/BoardDeletionTests.java" />
+        <option value="$PROJECT_DIR$/BoardCreation/src/test/java/TestBase.java" />
+        <option value="$PROJECT_DIR$/BoardCreation/src/test/java/BeforeMethod.java" />
+        <option value="$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java" />
       </list>
     </option>
   </component>
@@ -135,6 +194,9 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Marina\Documents\GitHub\vilinski_qa20_new\BoardCreation\src\test\java" />
     </key>
@@ -151,7 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.BoardDeletionTests.testPrivateBoardDeletion">
+  <component name="RunManager" selected="TestNG.BoardCreation.createBoardTest">
     <configuration name="BoardCreation [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -236,8 +298,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.BoardDeletionTests.testPrivateBoardDeletion" />
         <item itemvalue="TestNG.BoardCreation.createBoardTest" />
+        <item itemvalue="TestNG.BoardDeletionTests.testPrivateBoardDeletion" />
         <item itemvalue="Gradle.BoardCreation [dependencies]" />
         <item itemvalue="TestNG.TeamCreation.testTeamCreation" />
       </list>
@@ -257,35 +319,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TeamCreation_testTeamCreation - 2019.07.10 at 21h 04m 45s.xml">
-      <configuration name="TeamCreation.testTeamCreation" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="TeamCreation_testTeamCreation - 2019.07.10 at 21h 04m 46s.xml">
-      <configuration name="TeamCreation.testTeamCreation" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="TeamCreation_testTeamCreation - 2019.07.10 at 21h 04m 53s.xml">
-      <configuration name="TeamCreation.testTeamCreation" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="TeamCreation_testTeamCreation - 2019.07.10 at 21h 23m 57s.xml">
-      <configuration name="TeamCreation.testTeamCreation" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TeamCreation_testTeamCreation - 2019.07.11 at 19h 23m 29s.xml">
-      <configuration name="TeamCreation.testTeamCreation" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="BoardCreation_createBoardTest - 2019.07.11 at 19h 24m 16s.xml">
-      <configuration name="BoardCreation.createBoardTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="BoardCreation_createBoardTest - 2019.07.11 at 20h 49m 15s.xml">
-      <configuration name="BoardCreation.createBoardTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="BoardCreation_createBoardTest - 2019.07.12 at 00h 41m 16s.xml">
-      <configuration name="BoardCreation.createBoardTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="BoardDeletionTests_testPrivateBoardDeletion - 2019.07.14 at 00h 39m 49s.xml">
+    <history-entry file="BoardDeletionTests_testPrivateBoardDeletion - 2019.07.14 at 02h 40m 07s.xml">
       <configuration name="BoardDeletionTests.testPrivateBoardDeletion" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BoardDeletionTests_testPrivateBoardDeletion - 2019.07.14 at 00h 42m 19s.xml">
-      <configuration name="BoardDeletionTests.testPrivateBoardDeletion" configurationId="TestNG" />
+    <history-entry file="BoardCreation_createBoardTest - 2019.07.14 at 02h 41m 55s.xml">
+      <configuration name="BoardCreation.createBoardTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="BoardCreation_createBoardTest - 2019.07.14 at 02h 43m 16s.xml">
+      <configuration name="BoardCreation.createBoardTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="BoardCreation_createBoardTest - 2019.07.14 at 02h 49m 14s.xml">
+      <configuration name="BoardCreation.createBoardTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="BoardCreation_createBoardTest - 2019.07.14 at 02h 50m 42s.xml">
+      <configuration name="BoardCreation.createBoardTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="BoardCreation_createBoardTest - 2019.07.14 at 02h 53m 40s.xml">
+      <configuration name="BoardCreation.createBoardTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="BoardCreation_createBoardTest - 2019.07.14 at 02h 55m 05s.xml">
+      <configuration name="BoardCreation.createBoardTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="BoardCreation_createBoardTest - 2019.07.14 at 02h 56m 16s.xml">
+      <configuration name="BoardCreation.createBoardTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="BoardCreation_createBoardTest - 2019.07.14 at 03h 08m 06s.xml">
+      <configuration name="BoardCreation.createBoardTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="BoardCreation_createBoardTest - 2019.07.14 at 03h 13m 37s.xml">
+      <configuration name="BoardCreation.createBoardTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -302,7 +364,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993573" visible="true" weight="0.32974428" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -359,16 +421,6 @@
     <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/java/TrelloLoginTest.java" />
     <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/java/TestBase.java" />
     <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/java/BoardCreationTests.java" />
-    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BoardCreation/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -376,29 +428,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/3.141.59/8950c1557ead2cdba4fdb9ba6f107dce3b5f1520/selenium-remote-driver-3.141.59-sources.jar!/org/openqa/selenium/remote/HttpCommandExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/TeamCreation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        <state relative-caret-position="157">
+          <caret line="157" column="40" selection-start-line="157" selection-start-column="40" selection-end-line="157" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="361" column="69" selection-start-line="361" selection-start-column="69" selection-end-line="361" selection-end-column="69" />
+        <state relative-caret-position="1153">
+          <caret line="423" column="66" selection-start-line="423" selection-start-column="66" selection-end-line="423" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/TeamCreation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1275">
+          <caret line="352" column="30" selection-start-line="352" selection-start-column="30" selection-end-line="352" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/BeforeMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/BoardDeletionTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        <state relative-caret-position="323">
+          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1441#1442#0" expanded="true" />
+            <element signature="e#1488#1489#0" expanded="true" />
+            <element signature="e#1780#1781#0" expanded="true" />
+            <element signature="e#1834#1835#0" expanded="true" />
+            <element signature="e#1893#1894#0" expanded="true" />
+            <element signature="e#1957#1958#0" expanded="true" />
+            <element signature="e#4175#4176#0" expanded="true" />
+            <element signature="e#4237#4238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
