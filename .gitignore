@@ -13,7 +13,10 @@ gradle-app.setting
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
 \
-BoardCreation/build/classes/java/test/TestBase.class
+com.tr.trello.tests.BoardCreation/build/classes/java/test/com.tr.trello.tests.TestBase.class
+.idea/workspace.xml
+.idea/workspace.xml
+.idea/workspace.xml
 .idea/workspace.xml
 .idea/workspace.xml
 .idea/workspace.xml

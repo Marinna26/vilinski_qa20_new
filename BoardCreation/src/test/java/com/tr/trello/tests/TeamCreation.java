@@ -1,8 +1,11 @@
+package com.tr.trello.tests;
+
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-public class TeamDeletionTests extends TestBase{
+public class TeamCreation extends TestBase{
+
     @BeforeMethod
     public void preconditions() throws InterruptedException {
         if(!app.getSession().isUserLoggedIn()){
@@ -11,17 +14,15 @@ public class TeamDeletionTests extends TestBase{
     }
 
     @Test
-    public void testTeamDeletion(){
+    public void testTeamCreation(){
         int before = app.getTeam().getTeamsCount();
-        app.getTeam().openFirstTeam();
-        app.getTeam().openSettingsMenu();
-        app.getTeam().clickDeleteTeamButton();
-        app.getTeam().confirmAndFinishTeamDeletion();
+        app.clickOnPlusButton();
+        app.getTeam().selectCreateTeamFromDropDown();
+        app.getTeam().fillTeamCreationForm("QA20 Team");
+        app.getTeam().submitTeamCreation();
         app.returnToHomePage();
         int after = app.getTeam().getTeamsCount();
-
-        Assert.assertEquals(after,before-1);
+        Assert.assertEquals(after,before+1);
     }
-
 
 }
