@@ -1,37 +1,36 @@
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-import java.util.concurrent.TimeUnit;
-
-public class BoardCreation extends TestBase
-{
+public class BoardCreation extends TestBase {
     @BeforeMethod
-    public void ensurePreconditions() throws InterruptedException{
-        if (!isUserLoggedIn()) {
-            login("marinna2011@ukr.net", "12345Com");
+    public void preconditions() throws InterruptedException {
+        if(!app.getSession().isUserLoggedIn()){
+            app.getSession().login("marinna2011@ukr.net", "12345Com");
         }
     }
+
     @Test
     public void createBoardTest() throws InterruptedException {
-        int before = getPrivateBoardsCount();
-        clickOnPlusButton();
-        selectCreateBoardFromDropDown();
-        pause(7000);
-        fillBoardCreationForm("qa20" + System.currentTimeMillis());
-        confirmBoardCreation();
-        pause(10000);
-        returnToHomePage();
-        pause(7000);
-        int after = getPrivateBoardsCount();
+        int before = app.getBoard().getPrivateBoardsCount();
+        app.clickOnPlusButton();
+        app.getBoard().selectCreateBoardFromDropDown();
+        app.getSession().pause(7000);
+        app.getBoard().fillBoardCreationForm("qa20");
+        app.getBoard().confirmBoardCreation();
+        app.getSession().pause(10000);
+        app.returnToHomePage();
+        app.getSession().pause(7000);
+        int after = app.getBoard().getPrivateBoardsCount();
         Assert.assertEquals(after,before+1);
 
+    }
+    @Test
+    public void testBoardCreationLongName(){
+        app.clickOnPlusButton();
+        app.getBoard().selectCreateBoardFromDropDown();
+        app.getBoard().fillBoardCreationForm("qa20 with veryyyy Long Nameeeeee");
+        app.getBoard().confirmBoardCreation();
     }
 
 
