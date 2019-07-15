@@ -1,6 +1,3 @@
-package com.tr.trello.tests;
-
-import com.tr.trello.fw.ApplicationManager;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
