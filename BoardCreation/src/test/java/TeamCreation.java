@@ -1,4 +1,5 @@
 
+import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
@@ -13,10 +14,14 @@ public class TeamCreation extends TestBase{
 
     @Test
     public void testTeamCreation(){
+        int before = app.getTeam().getTeamsCount();
         app.clickOnPlusButton();
         app.getTeam().selectCreateTeamFromDropDown();
         app.getTeam().fillTeamCreationForm("QA20 Team");
         app.getTeam().submitTeamCreation();
+        app.returnToHomePage();
+        int after = app.getTeam().getTeamsCount();
+        Assert.assertEquals(after,before+1);
     }
 
 }

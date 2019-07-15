@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a607aac0-d7f1-44cc-b61f-6df2a4056f12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/ApplicationManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/BoardHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/HelperBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/SessionHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/TeamHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/build/classes/java/test/META-INF/BoardCreation_main.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/build/classes/java/test/TeamCreation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/build/classes/java/test/TestBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/BoardCreation.class" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/out/test/classes/BoardCreation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/BoardDeletionTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/out/test/classes/BoardDeletionTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/TeamCreation.class" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/out/test/classes/TeamCreation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/out/test/classes/TestBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/src/test/java/BoardDeletionTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/BoardDeletionTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BoardCreation/src/test/java/TeamCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/TeamCreation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/src/test/java/TeamDeletionTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/TeamDeletionTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/src/test/java/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/TestBase.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/BoardCreation/.gradle/" />
@@ -72,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+            <state relative-caret-position="178">
+              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/TeamDeletionTests.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -147,8 +130,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/TeamCreation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+            <state relative-caret-position="280">
+              <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -241,8 +224,8 @@
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/BoardDeletionTests.java" />
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/ApplicationManager.java" />
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/TestBase.java" />
-        <option value="$PROJECT_DIR$/BoardCreation/src/test/java/TeamCreation.java" />
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java" />
+        <option value="$PROJECT_DIR$/BoardCreation/src/test/java/TeamCreation.java" />
       </list>
     </option>
   </component>
@@ -330,7 +313,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.BoardCreation.testBoardCreationLongName">
+  <component name="RunManager" selected="TestNG.TeamDeletionTests.testTeamDeletion">
     <configuration name="TeamCreation.testTeamCreation" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -375,22 +358,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BoardDeletionTests" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="BoardDeletionTests.testPrivateBoardDeletion" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BoardCreation_test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="BoardDeletionTests" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="METHOD_NAME" value="testPrivateBoardDeletion" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BoardDeletionTests.testPrivateBoardDeletion" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TeamCreation.testTeamCreation" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BoardCreation_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BoardDeletionTests" />
-      <option name="METHOD_NAME" value="testPrivateBoardDeletion" />
+      <option name="MAIN_CLASS_NAME" value="TeamCreation" />
+      <option name="METHOD_NAME" value="testTeamCreation" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -414,17 +398,17 @@
       <item itemvalue="Gradle.TeamCreation.testTeamCreation" />
       <item itemvalue="TestNG.BoardCreation.createBoardTest" />
       <item itemvalue="TestNG.BoardDeletionTests.testPrivateBoardDeletion" />
-      <item itemvalue="TestNG.TeamDeletionTests.testTeamDeletion" />
-      <item itemvalue="TestNG.BoardDeletionTests" />
       <item itemvalue="TestNG.BoardCreation.testBoardCreationLongName" />
+      <item itemvalue="TestNG.TeamCreation.testTeamCreation" />
+      <item itemvalue="TestNG.TeamDeletionTests.testTeamDeletion" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TeamDeletionTests.testTeamDeletion" />
+        <item itemvalue="TestNG.TeamCreation.testTeamCreation" />
         <item itemvalue="TestNG.BoardCreation.testBoardCreationLongName" />
         <item itemvalue="TestNG.BoardCreation.createBoardTest" />
         <item itemvalue="TestNG.BoardDeletionTests.testPrivateBoardDeletion" />
-        <item itemvalue="TestNG.BoardDeletionTests" />
-        <item itemvalue="TestNG.TeamDeletionTests.testTeamDeletion" />
       </list>
     </recent_temporary>
   </component>
@@ -442,15 +426,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BoardDeletionTests_testPrivateBoardDeletion - 2019.07.16 at 00h 25m 43s.xml">
-      <configuration name="BoardDeletionTests.testPrivateBoardDeletion" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="BoardDeletionTests_testPrivateBoardDeletion - 2019.07.16 at 00h 26m 40s.xml">
-      <configuration name="BoardDeletionTests.testPrivateBoardDeletion" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="BoardDeletionTests_testPrivateBoardDeletion - 2019.07.16 at 00h 29m 29s.xml">
-      <configuration name="BoardDeletionTests.testPrivateBoardDeletion" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="BoardCreation_createBoardTest - 2019.07.16 at 00h 30m 33s.xml">
       <configuration name="BoardCreation.createBoardTest" configurationId="TestNG" />
     </history-entry>
@@ -471,6 +446,15 @@
     </history-entry>
     <history-entry file="BoardCreation_createBoardTest - 2019.07.16 at 01h 03m 48s.xml">
       <configuration name="BoardCreation.createBoardTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="BoardCreation_testBoardCreationLongName - 2019.07.16 at 01h 07m 07s.xml">
+      <configuration name="BoardCreation.testBoardCreationLongName" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TeamCreation_testTeamCreation - 2019.07.16 at 01h 12m 07s.xml">
+      <configuration name="TeamCreation.testTeamCreation" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TeamCreation_testTeamCreation - 2019.07.16 at 01h 15m 41s.xml">
+      <configuration name="TeamCreation.testTeamCreation" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -649,16 +633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/TeamDeletionTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/SessionHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -702,17 +676,7 @@
     <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/TeamCreation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -731,8 +695,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/BoardCreation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        <state relative-caret-position="178">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/TeamCreation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/TeamDeletionTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
