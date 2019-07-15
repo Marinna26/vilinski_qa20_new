@@ -1,3 +1,4 @@
+package сom.tr.trello.tests;
 
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;

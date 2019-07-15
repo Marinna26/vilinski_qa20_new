@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a607aac0-d7f1-44cc-b61f-6df2a4056f12" name="Default Changelist" comment="" />
+    <list default="true" id="a607aac0-d7f1-44cc-b61f-6df2a4056f12" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules/TelRan-BoardCreation_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/TelRan-BoardCreation_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/TelRan-BoardCreation_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/TelRan-BoardCreation_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/build/classes/java/test/META-INF/BoardCreation_main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/build/classes/java/test/TeamCreation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/build/classes/java/test/TestBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/ApplicationManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/BoardCreation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/BoardDeletionTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/BoardHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/HelperBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/META-INF/BoardCreation_main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/SessionHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/TeamCreation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/TeamDeletionTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/TeamHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/TestBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/com/tr/trello/fw/ApplicationManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/com/tr/trello/fw/BoardHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/com/tr/trello/fw/HelperBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/com/tr/trello/fw/SessionHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/com/tr/trello/fw/TeamHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/com/tr/trello/tests/BoardCreation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/com/tr/trello/tests/BoardDeletionTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/com/tr/trello/tests/TeamCreation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/com/tr/trello/tests/TeamDeletionTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/com/tr/trello/tests/TestBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/ApplicationManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/BoardHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/BoardHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/HelperBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/HelperBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/SessionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/SessionHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/TeamHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/TeamHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/BoardCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/BoardCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/BoardDeletionTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/BoardDeletionTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/TeamCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/TeamCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/TeamDeletionTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/TeamDeletionTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/TestBase.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/BoardCreation/.gradle/" />
     <ignored path="$PROJECT_DIR$/BoardCreation/build/" />
@@ -37,9 +75,97 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/TeamDeletionTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/TestBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/TeamCreation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/ApplicationManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/BoardHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/HelperBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/SessionHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/TeamHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/BoardCreation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/BoardDeletionTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -73,6 +199,16 @@
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/TeamCreation.java" />
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/com/tr/trello/TeamDeletionTests.java" />
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/com/tr/trello/TestBase.java" />
+        <option value="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/TeamCreation.java" />
+        <option value="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/BoardHelper.java" />
+        <option value="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/HelperBase.java" />
+        <option value="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/SessionHelper.java" />
+        <option value="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/TeamHelper.java" />
+        <option value="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/BoardCreation.java" />
+        <option value="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/TeamDeletionTests.java" />
+        <option value="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/BoardDeletionTests.java" />
+        <option value="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/ApplicationManager.java" />
+        <option value="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/TestBase.java" />
       </list>
     </option>
   </component>
@@ -116,6 +252,43 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="BoardCreation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vilinski_qa20_new" type="462c0819:PsiDirectoryNode" />
+              <item name="BoardCreation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BoardCreation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vilinski_qa20_new" type="462c0819:PsiDirectoryNode" />
+              <item name="BoardCreation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="trello" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BoardCreation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vilinski_qa20_new" type="462c0819:PsiDirectoryNode" />
+              <item name="BoardCreation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="trello" type="462c0819:PsiDirectoryNode" />
+              <item name="fw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BoardCreation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vilinski_qa20_new" type="462c0819:PsiDirectoryNode" />
+              <item name="BoardCreation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="trello" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -136,11 +309,11 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.tr.trello" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Marina\Documents\GitHub\vilinski_qa20_new\BoardCreation\src\test\java" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Marina\Documents\GitHub\vilinski_qa20_new\BoardCreation\src\test\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -155,7 +328,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.BoardCreation.createBoardTest">
+  <component name="RunManager" selected="TestNG.TeamDeletionTests.testTeamDeletion (2)">
     <configuration name="TeamCreation.testTeamCreation" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -188,35 +361,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BoardCreation.testBoardCreationLongName" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="BoardCreation_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="com.tr.trello.tests.BoardCreation" />
-      <option name="METHOD_NAME" value="testBoardCreationLongName" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BoardDeletionTests.testPrivateBoardDeletion" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="BoardCreation_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="com.tr.trello.tests.BoardDeletionTests" />
-      <option name="METHOD_NAME" value="testPrivateBoardDeletion" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TeamCreation.testTeamCreation" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BoardCreation_test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="com.tr.trello.tests.TeamCreation" />
       <option name="METHOD_NAME" value="testTeamCreation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeamDeletionTests.testTeamDeletion (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BoardCreation_test" />
+      <option name="PACKAGE_NAME" value="сom.tr.trello.tests" />
+      <option name="MAIN_CLASS_NAME" value="TeamDeletionTests" />
+      <option name="METHOD_NAME" value="testTeamDeletion" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeamDeletionTests.testTeamDeletion (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BoardCreation_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="сom.tr.trello.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="сom.tr.trello.tests" />
+      <option name="MAIN_CLASS_NAME" value="сom.tr.trello.tests.TeamDeletionTests" />
+      <option name="METHOD_NAME" value="testTeamDeletion" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -239,18 +418,18 @@
     <list>
       <item itemvalue="Gradle.TeamCreation.testTeamCreation" />
       <item itemvalue="TestNG.BoardCreation.createBoardTest" />
-      <item itemvalue="TestNG.BoardDeletionTests.testPrivateBoardDeletion" />
-      <item itemvalue="TestNG.BoardCreation.testBoardCreationLongName" />
       <item itemvalue="TestNG.TeamCreation.testTeamCreation" />
       <item itemvalue="TestNG.TeamDeletionTests.testTeamDeletion" />
+      <item itemvalue="TestNG.TeamDeletionTests.testTeamDeletion (1)" />
+      <item itemvalue="TestNG.TeamDeletionTests.testTeamDeletion (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TeamDeletionTests.testTeamDeletion (2)" />
+        <item itemvalue="TestNG.TeamDeletionTests.testTeamDeletion (1)" />
         <item itemvalue="TestNG.BoardCreation.createBoardTest" />
         <item itemvalue="TestNG.TeamCreation.testTeamCreation" />
         <item itemvalue="TestNG.TeamDeletionTests.testTeamDeletion" />
-        <item itemvalue="TestNG.BoardCreation.testBoardCreationLongName" />
-        <item itemvalue="TestNG.BoardDeletionTests.testPrivateBoardDeletion" />
       </list>
     </recent_temporary>
   </component>
@@ -268,9 +447,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BoardCreation_createBoardTest - 2019.07.16 at 00h 40m 51s.xml">
-      <configuration name="BoardCreation.createBoardTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="BoardCreation_createBoardTest - 2019.07.16 at 00h 42m 33s.xml">
       <configuration name="BoardCreation.createBoardTest" configurationId="TestNG" />
     </history-entry>
@@ -298,6 +474,9 @@
     <history-entry file="TeamDeletionTests_testTeamDeletion - 2019.07.16 at 01h 16m 39s.xml">
       <configuration name="TeamDeletionTests.testTeamDeletion" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="TeamDeletionTests_testTeamDeletion_(1) - 2019.07.16 at 02h 17m 46s.xml">
+      <configuration name="TeamDeletionTests.testTeamDeletion (1)" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -311,7 +490,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993573" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993573" weight="0.32974428" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -320,13 +499,13 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50064266" side_tool="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Build" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32974428" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.32974428" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Gradle" order="5" visible="true" weight="0.098971725" />
+      <window_info anchor="right" id="Gradle" order="5" visible="true" weight="0.19601542" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
@@ -432,6 +611,79 @@
     <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/com/tr/trello/tests/TestBase.java" />
     <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/com/tr/trello/fw/TeamHelper.java" />
     <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/com/tr/trello/tests/TeamDeletionTests.java" />
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/SessionHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/TeamCreation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/TeamDeletionTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/BoardDeletionTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/BoardCreation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/ApplicationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/BoardHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/TeamHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/HelperBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

@@ -1,3 +1,4 @@
+package сom.tr.trello.fw;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -52,4 +53,5 @@ public class ApplicationManager {
     public TeamHelper getTeam() {
         return team;
     }
+
 }
