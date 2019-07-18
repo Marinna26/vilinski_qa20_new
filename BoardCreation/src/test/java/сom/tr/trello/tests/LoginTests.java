@@ -35,6 +35,8 @@ public class LoginTests extends TestBase {
                 .withEmail("hhhhrqr@hh.com"));    //app.getSession().fillLoginForm(new User("", "null"));
         app.getSession().confirmLogin();
 
+        app.getSession().getElementColor();
+
         Assert.assertTrue(app.getSession().isElementPresent(By.cssSelector("p.error-message")));
         Assert.assertTrue(app.getSession().isElementPresent(By.cssSelector("#user.error")));
     }

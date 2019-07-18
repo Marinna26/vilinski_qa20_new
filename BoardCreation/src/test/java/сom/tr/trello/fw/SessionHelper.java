@@ -40,7 +40,11 @@ public class SessionHelper extends HelperBase {
         click(By.cssSelector("[data-test-id='header-member-menu-button']"));
         click(By.cssSelector("[data-test-id='header-member-menu-logout']"));
         Thread.sleep(5000);
+    }
 
+    public void getElementColor(){
+        String color = wd.findElement(By.cssSelector("p.error-message")).getCssValue("color");
+        System.out.println(color);
 
     }
 }
