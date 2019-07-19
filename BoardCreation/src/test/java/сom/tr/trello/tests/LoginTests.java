@@ -27,26 +27,5 @@ public class LoginTests extends TestBase {
         Assert.assertTrue(app.getSession().isUserLoggedIn());
     }
 
-    @Test
 
-    public void negativeLoginTestWithoutPassword(){
-        app.getSession().initLogin();
-        app.getSession().fillLoginForm(new User()
-                .withEmail("hhhhrqr@hh.com"));    //app.getSession().fillLoginForm(new User("", "null"));
-        app.getSession().confirmLogin();
-
-        app.getSession().getElementColor();
-
-        Assert.assertTrue(app.getSession().isElementPresent(By.cssSelector("p.error-message")));
-        Assert.assertTrue(app.getSession().isElementPresent(By.cssSelector("#user.error")));
-    }
-
-    @Test
-    public void negativeLoginTestWithoutEmail(){
-        app.getSession().initLogin();
-        app.getSession().fillLoginForm(new User().setPassword("rrrrrwr"));
-        app.getSession().confirmLogin();
-
-        Assert.assertTrue(app.getSession().isElementPresent(By.cssSelector("p.error-message")));
-    }
 }
