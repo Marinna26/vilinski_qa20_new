@@ -3,18 +3,18 @@
 <suite name="Trello-web" verbose="1" >
     <test name="webSmokey" >
         <classes>
-            <class name="com.tr.trello.tests.LoginTests" />
-            <class name="com.tr.trello.tests.BoardCreationTests" />
-            <class name="com.tr.trello.tests.BoardDeletionTests" />
-            <class name="com.tr.trello.tests.TeamCreationTests" />
+            <class name="сom.tr.trello.tests.LoginTests" />
+            <class name="сom.tr.trello.tests.BoardCreation" />
+            <class name="сom.tr.trello.tests.BoardDeletionTests" />
+            <class name="сom.tr.trello.tests.TeamCreation" />
         </classes>
     </test>
 
     <test name="web-Regression1">
         <classes>
-            <class name="com.tr.trello.tests.LoginTests"/>
-            <class name="com.tr.trello.tests.LoginTests"/>
-            <class name="com.tr.trello.tests.LoginTests"/>
+            <class name="сom.tr.trello.tests.LoginTests"/>
+            <class name="сom.tr.trello.tests.LoginTests"/>
+            <class name="сom.tr.trello.tests.LoginTests"/>
         </classes>
     </test>
 </suite>

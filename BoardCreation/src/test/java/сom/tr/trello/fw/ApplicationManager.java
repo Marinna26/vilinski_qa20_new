@@ -2,8 +2,9 @@ package сom.tr.trello.fw;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import sun.plugin2.util.BrowserType;
+import org.openqa.selenium.remote.BrowserType;
 
 import java.util.concurrent.TimeUnit;
 
@@ -19,14 +20,12 @@ public class ApplicationManager {
     }
 
     public void init() throws InterruptedException {
+
         if(browser.equals(BrowserType.FIREFOX)){
             wd = new FirefoxDriver();
         } else if (browser.equals(BrowserType.CHROME)) {
             wd = new ChromeDriver();
-        } else if (browser.equals(BrowserType.MOZILLA)) {
-            wd = new MozillaDriver();
-        }
-     else if (browser.equals(BrowserType.EDGE)) {
+        } else if (browser.equals(BrowserType.EDGE)) {
             wd = new EdgeDriver();
         } else
             System.out.println("Unknown browser format");
