@@ -2,42 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a607aac0-d7f1-44cc-b61f-6df2a4056f12" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/build/classes/java/test/META-INF/BoardCreation_main.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/build/classes/java/test/TeamCreation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/build/classes/java/test/TestBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/ApplicationManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/BoardCreation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/BoardDeletionTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/BoardHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/HelperBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/META-INF/BoardCreation_main.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/SessionHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/TeamCreation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/TeamDeletionTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/TeamHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/TestBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/com/tr/trello/fw/ApplicationManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/com/tr/trello/fw/BoardHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/com/tr/trello/fw/HelperBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/com/tr/trello/fw/SessionHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/com/tr/trello/fw/TeamHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/com/tr/trello/tests/BoardCreation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/com/tr/trello/tests/BoardDeletionTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/com/tr/trello/tests/TeamCreation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/com/tr/trello/tests/TeamDeletionTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/com/tr/trello/tests/TestBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/сom/tr/trello/fw/ApplicationManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/out/test/classes/сom/tr/trello/fw/ApplicationManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/сom/tr/trello/fw/HelperBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/out/test/classes/сom/tr/trello/fw/HelperBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/сom/tr/trello/tests/BoardCreation.class" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/out/test/classes/сom/tr/trello/tests/BoardCreation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/сom/tr/trello/tests/BoardDeletionTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/out/test/classes/сom/tr/trello/tests/BoardDeletionTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/сom/tr/trello/tests/LoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/out/test/classes/сom/tr/trello/tests/LoginTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/сom/tr/trello/tests/TeamCreation.class" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/out/test/classes/сom/tr/trello/tests/TeamCreation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/сom/tr/trello/tests/TeamDeletionTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/out/test/classes/сom/tr/trello/tests/TeamDeletionTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/classes/сom/tr/trello/tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/out/test/classes/сom/tr/trello/tests/TestBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/out/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/out/test/resources/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/ApplicationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/BoardCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/BoardCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/BoardDeletionTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/BoardDeletionTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardCreation/src/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BoardCreation/src/test/resources/testng.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/BoardCreation/.gradle/" />
@@ -80,18 +47,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/TestBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="10" column="77" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/LoginTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
+            <state relative-caret-position="315">
               <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -105,17 +63,17 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-              <folding>
-                <element signature="e#459#460#0" expanded="true" />
-                <element signature="e#497#498#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/resources/testng.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -130,8 +88,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/BoardCreation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="28" />
+            <state relative-caret-position="272">
+              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -139,8 +97,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/BoardDeletionTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+            <state relative-caret-position="255">
+              <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/BoardHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -166,7 +133,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/NegativeLoginTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="68">
               <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
@@ -206,18 +173,18 @@
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/TeamCreation.java" />
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/BoardHelper.java" />
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/TeamHelper.java" />
-        <option value="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/BoardCreation.java" />
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/TeamDeletionTests.java" />
-        <option value="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/BoardDeletionTests.java" />
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/model/User.java" />
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/SessionHelper.java" />
         <option value="$PROJECT_DIR$/BoardCreation/build.gradle" />
-        <option value="$PROJECT_DIR$/BoardCreation/src/test/resources/testng.xml" />
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/LoginTests.java" />
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/HelperBase.java" />
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/NegativeLoginTest.java" />
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/TestBase.java" />
         <option value="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/ApplicationManager.java" />
+        <option value="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/BoardCreation.java" />
+        <option value="$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/BoardDeletionTests.java" />
+        <option value="$PROJECT_DIR$/BoardCreation/src/test/resources/testng.xml" />
       </list>
     </option>
   </component>
@@ -235,8 +202,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -360,7 +327,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.LoginTests.positiveLoginTest">
+  <component name="RunManager" selected="TestNG.C:/Users/Marina/Documents/GitHub/vilinski_qa20_new/BoardCreation/src/test/resources/testng.xml">
     <configuration name="TeamCreation.testTeamCreation" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -399,18 +366,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTests.negativeLoginTestWithoutPassword" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/Marina/Documents/GitHub/vilinski_qa20_new/BoardCreation/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BoardCreation_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="сom.tr.trello.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="сom.tr.trello.tests" />
-      <option name="MAIN_CLASS_NAME" value="сom.tr.trello.tests.LoginTests" />
-      <option name="METHOD_NAME" value="negativeLoginTestWithoutPassword" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/BoardCreation/src/test/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -474,18 +433,18 @@
     <list>
       <item itemvalue="Gradle.TeamCreation.testTeamCreation" />
       <item itemvalue="TestNG.TeamDeletionTests.testTeamDeletion (2)" />
-      <item itemvalue="TestNG.LoginTests.negativeLoginTestWithoutPassword" />
       <item itemvalue="TestNG.BoardDeletionTests.testPrivateBoardDeletion" />
       <item itemvalue="TestNG.NegativeLoginTest.negativeLoginTestWithoutPassword" />
       <item itemvalue="TestNG.LoginTests.positiveLoginTest" />
+      <item itemvalue="TestNG.C:/Users/Marina/Documents/GitHub/vilinski_qa20_new/BoardCreation/src/test/resources/testng.xml" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/Marina/Documents/GitHub/vilinski_qa20_new/BoardCreation/src/test/resources/testng.xml" />
         <item itemvalue="TestNG.LoginTests.positiveLoginTest" />
         <item itemvalue="TestNG.NegativeLoginTest.negativeLoginTestWithoutPassword" />
         <item itemvalue="TestNG.TeamDeletionTests.testTeamDeletion (2)" />
         <item itemvalue="TestNG.BoardDeletionTests.testPrivateBoardDeletion" />
-        <item itemvalue="TestNG.LoginTests.negativeLoginTestWithoutPassword" />
       </list>
     </recent_temporary>
   </component>
@@ -503,12 +462,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TeamCreation_testTeamCreation - 2019.07.16 at 01h 12m 07s.xml">
-      <configuration name="TeamCreation.testTeamCreation" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TeamCreation_testTeamCreation - 2019.07.16 at 01h 15m 41s.xml">
-      <configuration name="TeamCreation.testTeamCreation" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TeamDeletionTests_testTeamDeletion - 2019.07.16 at 01h 16m 39s.xml">
       <configuration name="TeamDeletionTests.testTeamDeletion" configurationId="TestNG" />
     </history-entry>
@@ -533,12 +486,18 @@
     <history-entry file="LoginTests_positiveLoginTest - 2019.07.22 at 00h 50m 04s.xml">
       <configuration name="LoginTests.positiveLoginTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__Users_Marina_Documents_GitHub_vilinski_qa20_new_BoardCreation_src_test_resources_testng_xml - 2019.07.22 at 03h 26m 29s.xml">
+      <configuration name="C:/Users/Marina/Documents/GitHub/vilinski_qa20_new/BoardCreation/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Marina_Documents_GitHub_vilinski_qa20_new_BoardCreation_src_test_resources_testng_xml - 2019.07.22 at 03h 29m 00s.xml">
+      <configuration name="C:/Users/Marina/Documents/GitHub/vilinski_qa20_new/BoardCreation/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2673522" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27056554" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -547,15 +506,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.80205655" visible="true" weight="0.32974428" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8014139" visible="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32974428" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.19794345" side_tool="true" visible="true" weight="0.32974428" />
-      <window_info anchor="bottom" id="Build" order="10" sideWeight="0.7062982" weight="0.32839838" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.19858612" side_tool="true" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Build" order="10" sideWeight="0.7056555" weight="0.32839838" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49924013" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -649,13 +608,6 @@
     <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/com/tr/trello/tests/TestBase.java" />
     <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/com/tr/trello/fw/TeamHelper.java" />
     <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/com/tr/trello/tests/TeamDeletionTests.java" />
-    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/BoardHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/SessionHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -688,17 +640,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="77" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/ApplicationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/TeamHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/BoardDeletionTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -709,6 +668,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/NegativeLoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/BoardHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/LoginTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/BoardCreation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/BoardDeletionTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/TeamCreation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -716,48 +713,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/NegativeLoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/BoardCreation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/fw/ApplicationManager.java">
+    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/resources/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-          <folding>
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="10" column="77" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/resources/testng.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BoardCreation/src/test/java/сom/tr/trello/tests/LoginTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
         </state>
       </provider>
     </entry>
